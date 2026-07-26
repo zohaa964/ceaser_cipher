@@ -452,6 +452,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-""" if you need any help running this code 
-you can use chatgpt bcz gpt has more knowledge 
-than uu ,mee  and us"""
