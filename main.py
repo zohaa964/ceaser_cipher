@@ -452,3 +452,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+print("Version 1.2")
