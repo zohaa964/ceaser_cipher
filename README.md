@@ -171,8 +171,3 @@ This project demonstrates:
 ## Security Limitation
 
 The Caesar Cipher has only 25 meaningful keys, so an attacker can test every possible shift quickly. Modern applications should use established cryptographic libraries and strong algorithms such as AES rather than designing custom encryption.
-
-## Author
-
-**Ahmed Rasheed**  
-DecodeLabs Cyber Security Internship — Batch 2026
